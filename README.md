@@ -5,7 +5,6 @@ Project built with Javascript (NodeJS on the backend, ReactJS framework on the f
 # Overview
 
 Be the Hero is a project joining the ONGs and the collaborators, creating the comunication between them by WhatsApp or E-mail. The ONGs can have access by login and create cases, describe them and insert a price to do the procedure.
-Aircnc is a project to companys subscribe itself with availables spots to developers, to do small meetings and discuss about tecnologies, with the funcionality to make real-time bookings
 
 # Motivation
 
